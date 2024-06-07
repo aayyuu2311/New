@@ -1,0 +1,40 @@
+
+.header {
+ 
+  background-color: #333;
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 0 20px;
+  box-shadow: 0px 5px 15px rgba(128, 128, 128, 0.926);
+}
+
+.navbar {
+  height: 10vh;
+  width: 100vw;
+
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+text-align: center;
+  
+  
+}
+
+.brand h2 {
+  margin: 0;
+}
+
+.links {
+  display: flex;
+}
+
+.btn {
+  margin-right: 50px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.btn:hover {
+  color: #ccc;
+}

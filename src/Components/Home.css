@@ -1,0 +1,15 @@
+.image{
+    margin-top: 0.3rem;
+}
+.image img{
+    height: 80vh;
+    width: 100vw;
+    background-size: contain;
+    position: relative;
+}
+.image .text{
+    position: absolute;
+    bottom: 5rem;
+    left: 1rem;
+    color: white;
+}

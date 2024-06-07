@@ -1,0 +1,10 @@
+.slider{
+    height: 90vh;
+    width: 95vw;
+}
+.slider .slideImg{
+    height: 80vh;
+    width: 90%;
+    border-radius: 20px;
+    margin: 2rem;
+}
